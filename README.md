@@ -1,4 +1,4 @@
-Hi , this is very simple way to create login and connect it with firebase.
+Hi , this is very simple way to create signup ,login/logout  and connect it with firebase as a backend.
 
 ### `yarn add`
 followed by

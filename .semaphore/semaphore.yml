@@ -16,7 +16,7 @@ blocks:
       jobs:
         - name: 'Job #1'
           commands:
-            - npm test
+            - npm build
   - name: 'Block #3'
     task:
       jobs:
